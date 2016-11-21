@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 
 Creating a new branch is quick.
 
-branch for master
+branch for master + feature after conflict sovling by manual
+
